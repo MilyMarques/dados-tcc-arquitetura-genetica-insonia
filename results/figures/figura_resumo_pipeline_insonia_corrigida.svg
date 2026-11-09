@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 690" width="1280" height="690" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#44546a"/></marker>
+  </defs>
+  <rect width="1280" height="690" fill="#ffffff"/>
+  <text x="640" y="34" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2d3d">Síntese do pipeline: da estatística-resumo à interpretação funcional da insônia</text>
+
+  <g fill="#f7f9fb" stroke="#44546a" stroke-width="1.3">
+    <rect x="30" y="60" width="220" height="342" rx="8"/><rect x="280" y="60" width="220" height="342" rx="8"/>
+    <rect x="530" y="60" width="220" height="342" rx="8"/><rect x="780" y="60" width="220" height="342" rx="8"/>
+    <rect x="1030" y="60" width="220" height="342" rx="8"/>
+  </g>
+  <g stroke="#44546a" stroke-width="1.3">
+    <rect x="30" y="60" width="220" height="40" rx="8" fill="#dbe7f3"/><rect x="280" y="60" width="220" height="40" rx="8" fill="#dbe7f3"/>
+    <rect x="530" y="60" width="220" height="40" rx="8" fill="#dbe7f3"/><rect x="780" y="60" width="220" height="40" rx="8" fill="#fde9c9"/>
+    <rect x="1030" y="60" width="220" height="40" rx="8" fill="#dff0e1"/>
+  </g>
+  <g font-size="13.5" font-weight="bold" fill="#1f2d3d" text-anchor="middle"><text x="140" y="85">1 · Fontes</text><text x="390" y="85">2 · QC e padronização</text><text x="640" y="85">3 · FUMA + MAGMA</text><text x="890" y="85">4 · Integração</text><text x="1140" y="85">5 · Camadas posteriores</text></g>
+  <g font-size="12.5" fill="#1f2d3d">
+    <text x="42" y="126">Cadeia principal:</text><text x="42" y="148">Hammerschlag 2017</text><text x="42" y="170">Lane 2019 (sintomas extremos)</text><text x="42" y="192">Jansen 2019 (UKB público)</text><text x="42" y="214">Watanabe 2022 (UKB público)</text><text x="42" y="238">→ unidades analíticas:</text><text x="42" y="260">hammerschlag · lane · ukb_public</text><text x="42" y="304">Sensibilidade UKB:</text><text x="42" y="326">ukb-a-13 · ukb-b-3957</text><text x="42" y="368">Validação externa:</text><text x="42" y="390">FinnGen R13 · F5_INSOMNIA</text>
+    <text x="292" y="126">Harmonização de colunas e alelos</text><text x="292" y="148">Filtros de qualidade por fonte:</text><text x="292" y="170">posição autossômica, estatística,</text><text x="292" y="192">alelos, MAF e duplicatas</text><text x="292" y="236">Conversão BETA = ln(OR),</text><text x="292" y="258">quando a fonte reportou OR</text><text x="292" y="302">FinnGen: liftOver GRCh38→hg19</text><text x="292" y="324">e deduplicação após conversão</text><text x="292" y="368">Auditoria e validação pré-upload</text>
+    <text x="542" y="126">SNP2GENE · 1000G EUR · hg19</text><text x="542" y="148">P lead 5×10⁻⁸ · r² 0,6 / 0,1</text><text x="542" y="192">Mapeamento:</text><text x="542" y="214">posicional · eQTL cerebral</text><text x="542" y="236">(GTEx v8) · cromatina cortical</text><text x="542" y="258">MHC excluído no SNP2GENE</text><text x="542" y="302">MAGMA: janela de 10 kb</text><text x="542" y="324">Bonferroni = 0,05 / N genes</text>
+    <text x="792" y="126">Matriz gene × estudo ×</text><text x="792" y="148">modalidade de evidência</text><text x="792" y="192">Regra prévia ao enriquecimento:</text><text x="792" y="214">MAGMA Bonferroni em ≥ 2</text><text x="792" y="236">unidades analíticas</text><text x="792" y="258">+ ≥ 1 modalidade SNP2GENE</text><text x="792" y="302" font-weight="bold">CORE16: 16 genes</text><text x="792" y="324">MEIS1: 3 unidades analíticas</text><text x="792" y="346">SMAD5 · NMT1 · DNPH1:</text><text x="792" y="368">3 modalidades de mapeamento</text>
+  </g>
+  <g stroke="#44546a" stroke-width="2" marker-end="url(#arrow)"><line x1="250" y1="231" x2="276" y2="231"/><line x1="500" y1="231" x2="526" y2="231"/><line x1="750" y1="231" x2="776" y2="231"/><line x1="1000" y1="231" x2="1026" y2="231"/></g>
+  <g fill="#ffffff" stroke="#7a8aa0"><rect x="1038" y="110" width="204" height="64" rx="6"/><rect x="1038" y="180" width="204" height="64" rx="6"/><rect x="1038" y="250" width="204" height="64" rx="6"/><rect x="1038" y="320" width="204" height="74" rx="6"/></g>
+  <g fill="#1f2d3d"><text x="1046" y="130" font-size="12.5" font-weight="bold">Sensibilidade UKB</text><text x="1046" y="150" font-size="11.5">16/16 com FDR em 2/2;</text><text x="1046" y="166" font-size="11.5">13/16 com Bonferroni em 2/2</text><text x="1046" y="200" font-size="12.5" font-weight="bold">FinnGen R13 corrigido</text><text x="1046" y="220" font-size="11.5">0/16 genes com Bonferroni</text><text x="1046" y="236" font-size="11.5">(limiar 2,66×10⁻⁶)</text><text x="1046" y="270" font-size="12.5" font-weight="bold">STRING</text><text x="1046" y="290" font-size="11.5">Core16: rede principal;</text><text x="1046" y="306" font-size="11.5">legacy28 e global: contexto</text><text x="1046" y="340" font-size="12.5" font-weight="bold">Enriquecimento funcional</text><text x="1046" y="360" font-size="11.5">Core16: 2 termos GO-MF,</text><text x="1046" y="376" font-size="11.5">concentrados em HEXIM1/HEXIM2</text></g>
+  <line x1="1140" y1="402" x2="1140" y2="438" stroke="#44546a" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="30" y="442" width="1220" height="160" rx="8" fill="#f1ecf7" stroke="#44546a" stroke-width="1.3"/>
+  <text x="640" y="466" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2d3d">Temas da lista HCP289: resultados contextuais com FDR &lt; 0,05 em GENE2FUNC e/ou ShinyGO</text>
+  <g fill="#ffffff" stroke="#6b4c9a" stroke-width="1.3"><rect x="44" y="480" width="228" height="52" rx="26"/><rect x="287" y="480" width="228" height="52" rx="26"/><rect x="530" y="480" width="228" height="52" rx="26"/><rect x="773" y="480" width="228" height="52" rx="26"/><rect x="1016" y="480" width="228" height="52" rx="26"/></g>
+  <g font-size="12.5" fill="#1f2d3d" text-anchor="middle"><text x="158" y="502">Desenvolvimento e organização</text><text x="158" y="519">neuronal</text><text x="401" y="502">Assinaturas GABAérgicas e</text><text x="401" y="519">dopaminérgicas de mesencéfalo</text><text x="644" y="511">Interações L1CAM</text><text x="887" y="502">Junções comunicantes</text><text x="887" y="519">(gap junctions)</text><text x="1130" y="502">Sinalização e plasticidade</text><text x="1130" y="519">sináptica</text></g>
+  <text x="640" y="554" text-anchor="middle" font-size="11.5" fill="#1f2d3d">g:Profiler (g:SCS &lt; 0,05): nenhum termo significativo · os temas HCP289 são hipóteses, não uma assinatura biológica única.</text>
+  <text x="640" y="630" text-anchor="middle" font-size="11.5" fill="#44546a">Resultado principal: Core16. OpenGWAS, FinnGen, HCP289, legacy28 e STRING global representam camadas de sensibilidade, validação externa ou contexto.</text>
+  <text x="640" y="650" text-anchor="middle" font-size="11.5" fill="#44546a">O HCP289 (Watanabe et al., 2022) incorpora dados da 23andMe; portanto, não é validação independente do Core16.</text>
+</svg>

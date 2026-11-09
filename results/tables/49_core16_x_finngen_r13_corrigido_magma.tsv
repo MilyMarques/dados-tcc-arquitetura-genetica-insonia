@@ -1,0 +1,17 @@
+GENE	SYMBOL	priority_tier	finngen_r13_corrected_magma_P	finngen_r13_corrected_bonferroni_threshold	finngen_r13_corrected_bonferroni_significant	interpretation
+ENSG00000143995	MEIS1	high_priority	0.0020426	2.65929156473e-06	FALSE	Sem suporte Bonferroni FinnGen R13 corrigido
+ENSG00000181513	ACBD4	high_priority	0.10088	2.65929156473e-06	FALSE	Sem suporte Bonferroni FinnGen R13 corrigido
+ENSG00000168517	HEXIM2	high_priority	0.21519	2.65929156473e-06	FALSE	Sem suporte Bonferroni FinnGen R13 corrigido
+ENSG00000186834	HEXIM1	high_priority	0.23921	2.65929156473e-06	FALSE	Sem suporte Bonferroni FinnGen R13 corrigido
+ENSG00000128573	FOXP2	high_priority	0.0043298	2.65929156473e-06	FALSE	Sem suporte Bonferroni FinnGen R13 corrigido
+ENSG00000271824	SMIM32	high_priority	0.016609	2.65929156473e-06	FALSE	Sem suporte Bonferroni FinnGen R13 corrigido
+ENSG00000113658	SMAD5	high_priority	0.015978	2.65929156473e-06	FALSE	Sem suporte Bonferroni FinnGen R13 corrigido
+ENSG00000136448	NMT1	high_priority	0.27585	2.65929156473e-06	FALSE	Sem suporte Bonferroni FinnGen R13 corrigido
+ENSG00000172992	DCAKD	high_priority	0.23838	2.65929156473e-06	FALSE	Sem suporte Bonferroni FinnGen R13 corrigido
+ENSG00000145730	PAM	high_priority	0.029399	2.65929156473e-06	FALSE	Sem suporte Bonferroni FinnGen R13 corrigido
+ENSG00000174996	KLC2	high_priority	0.5349	2.65929156473e-06	FALSE	Sem suporte Bonferroni FinnGen R13 corrigido
+ENSG00000112667	DNPH1	high_priority	0.56865	2.65929156473e-06	FALSE	Sem suporte Bonferroni FinnGen R13 corrigido
+ENSG00000196628	TCF4	intermediate_priority	0.010896	2.65929156473e-06	FALSE	Sem suporte Bonferroni FinnGen R13 corrigido
+ENSG00000161714	PLCD3	intermediate_priority	0.12619	2.65929156473e-06	FALSE	Sem suporte Bonferroni FinnGen R13 corrigido
+ENSG00000069018	TRPC7	intermediate_priority	0.32716	2.65929156473e-06	FALSE	Sem suporte Bonferroni FinnGen R13 corrigido
+ENSG00000187772	LIN28B	intermediate_priority	0.0023384	2.65929156473e-06	FALSE	Sem suporte Bonferroni FinnGen R13 corrigido

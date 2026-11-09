@@ -1,0 +1,57 @@
+fuma_study_id	fuma_locus_id	catalog_associations_in_locus	catalog_studies	catalog_authors	reported_traits	mapped_traits	reported_genes	mapped_genes	core_genes_named_by_catalog
+lane_2019_extreme	33	34	GCST010097; GCST90131901; GCST90131902; GCST90131903; GCST90134531; GCST90267286	Schoeler T; Song W; Watanabe K; Yin B	Decaffeinated coffee consumption and/or insomnia; Insomnia; Insomnia (standard GWA)	coffee consumption measurement, insomnia; insomnia	AL450423.1; LINC01065	LINC00558; LINC01065; LINC01065 - PCDH8P1; OLFM4; OLFM4 - LINC01065; PCDH8P1 - RN7SL618P; RN7SL618P - ZNF646P1; ZNF646P1 - LINC00558	
+lane_2019_extreme	8	33	GCST004695; GCST004701; GCST004702; GCST006487; GCST010097; GCST90131901; GCST90131902; GCST90131903; GCST90134531; GCST90267286; GCST90475826; GCST90480000	Hammerschlag AR; Schoeler T; Song W; Verma A; Watanabe K; Yin B	Decaffeinated coffee consumption and/or insomnia; Insomnia; Insomnia (PheCode 327.4); Insomnia (standard GWA); Insomnia complaints; Insomnia complaints (continuous); Insomnia complaints (dichotomous)	coffee consumption measurement, insomnia; insomnia	AC009474.1; MEIS1	LINC01798; MEIS1	MEIS1
+jansen_2019_public	11	27	GCST010097; GCST90131901; GCST90131902; GCST90131903; GCST90134531; GCST90267286	Schoeler T; Song W; Watanabe K; Yin B	Decaffeinated coffee consumption and/or insomnia; Insomnia; Insomnia (standard GWA)	coffee consumption measurement, insomnia; insomnia	AL450423.1; LINC01065	LINC01065; LINC01065 - PCDH8P1; PCDH8P1 - RN7SL618P; RN7SL618P - ZNF646P1; ZNF646P1 - LINC00558	
+watanabe_2022_ukb	11	27	GCST010097; GCST90131901; GCST90131902; GCST90131903; GCST90134531; GCST90267286	Schoeler T; Song W; Watanabe K; Yin B	Decaffeinated coffee consumption and/or insomnia; Insomnia; Insomnia (standard GWA)	coffee consumption measurement, insomnia; insomnia	AL450423.1; LINC01065	LINC01065; LINC01065 - PCDH8P1; PCDH8P1 - RN7SL618P; RN7SL618P - ZNF646P1; ZNF646P1 - LINC00558	
+jansen_2019_public	2	25	GCST004695; GCST004701; GCST004702; GCST006487; GCST010097; GCST90131901; GCST90131902; GCST90131903; GCST90134531; GCST90267286; GCST90475826; GCST90480000	Hammerschlag AR; Schoeler T; Song W; Verma A; Watanabe K; Yin B	Decaffeinated coffee consumption and/or insomnia; Insomnia; Insomnia (PheCode 327.4); Insomnia (standard GWA); Insomnia complaints; Insomnia complaints (continuous); Insomnia complaints (dichotomous)	coffee consumption measurement, insomnia; insomnia	AC009474.1; MEIS1	LINC01798; MEIS1	MEIS1
+watanabe_2022_ukb	2	25	GCST004695; GCST004701; GCST004702; GCST006487; GCST010097; GCST90131901; GCST90131902; GCST90131903; GCST90134531; GCST90267286; GCST90475826; GCST90480000	Hammerschlag AR; Schoeler T; Song W; Verma A; Watanabe K; Yin B	Decaffeinated coffee consumption and/or insomnia; Insomnia; Insomnia (PheCode 327.4); Insomnia (standard GWA); Insomnia complaints; Insomnia complaints (continuous); Insomnia complaints (dichotomous)	coffee consumption measurement, insomnia; insomnia	AC009474.1; MEIS1	LINC01798; MEIS1	MEIS1
+lane_2019_extreme	44	21	GCST90131901; GCST90131902; GCST90131903; GCST90134531; GCST90267286	Schoeler T; Watanabe K; Yin B	Decaffeinated coffee consumption and/or insomnia; Insomnia; Insomnia (standard GWA)	coffee consumption measurement, insomnia; insomnia		RNA5SP459 - TCF4; TCF4	TCF4
+lane_2019_extreme	43	16	GCST010097; GCST90131901; GCST90131902; GCST90131903; GCST90267286	Schoeler T; Song W; Watanabe K	Insomnia; Insomnia (standard GWA)	insomnia	HEXIM1	ACBD4; ACBD4 - HEXIM1; HEXIM2; HEXIM2-AS2 - FMNL1-DT; NMT1; PLCD3	ACBD4; HEXIM1; HEXIM2; NMT1; PLCD3
+watanabe_2022_ukb	13	16	GCST010097; GCST90131901; GCST90131902; GCST90131903; GCST90267286	Schoeler T; Song W; Watanabe K	Insomnia; Insomnia (standard GWA)	insomnia	HEXIM1	ACBD4; ACBD4 - HEXIM1; HEXIM2; HEXIM2-AS2 - FMNL1-DT; NMT1; PLCD3	ACBD4; HEXIM1; HEXIM2; NMT1; PLCD3
+hammerschlag_2017	1	15	GCST004695; GCST004701; GCST004702; GCST006487; GCST010097; GCST90131901; GCST90131902; GCST90131903; GCST90267286; GCST90475826; GCST90480000	Hammerschlag AR; Schoeler T; Song W; Verma A; Watanabe K	Insomnia; Insomnia (PheCode 327.4); Insomnia (standard GWA); Insomnia complaints; Insomnia complaints (continuous); Insomnia complaints (dichotomous)	insomnia	AC009474.1; MEIS1	LINC01798; MEIS1	MEIS1
+lane_2019_extreme	36	15	GCST90131901; GCST90131903	Watanabe K	Insomnia	insomnia		INSYN1-AS1 - TBC1D21; LOXL1 - STOML1; PML; PML - DNM1P33; STOML1; TBC1D21 - LOXL1-AS1	
+jansen_2019_public	13	14	GCST010097; GCST90131901; GCST90131902; GCST90131903; GCST90267286	Schoeler T; Song W; Watanabe K	Insomnia; Insomnia (standard GWA)	insomnia	HEXIM1	ACBD4; ACBD4 - HEXIM1; HEXIM2; HEXIM2-AS2 - FMNL1-DT; NMT1; PLCD3	ACBD4; HEXIM1; HEXIM2; NMT1; PLCD3
+lane_2019_extreme	32	11	GCST90131901; GCST90131903	Watanabe K	Insomnia	insomnia		MMAB; MYO1H; MYO1H, KCTD10	
+lane_2019_extreme	12	10	GCST90131901; GCST90131903; GCST90267286	Schoeler T; Watanabe K	Insomnia; Insomnia (standard GWA)	insomnia		IP6K1; KLHDC8B; SEMA3F; SEMA3F-AS1; TRAIP; UBA7 - TRAIP	
+lane_2019_extreme	18	8	GCST010097; GCST90131901; GCST90131903	Song W; Watanabe K	Insomnia	insomnia	RP11-6N13.1	NIHCOLE - RNU6-334P	
+lane_2019_extreme	25	7	GCST010097; GCST90131901; GCST90131902; GCST90131903	Song W; Watanabe K	Insomnia	insomnia	FOXP2	FOXP2	FOXP2
+lane_2019_extreme	27	7	GCST90131901; GCST90131902; GCST90131903; GCST90267286	Schoeler T; Watanabe K	Insomnia; Insomnia (standard GWA)	insomnia		FAM120A; PHF2; Y_RNA - FAM120AOS	
+lane_2019_extreme	9	7	GCST90131901; GCST90131902; GCST90131903; GCST90267286	Schoeler T; Watanabe K	Insomnia; Insomnia (standard GWA)	insomnia		LINC02966	
+jansen_2019_public	4	6	GCST010097; GCST90131901; GCST90131902; GCST90131903	Song W; Watanabe K	Insomnia	insomnia	LSAMP:RP11-384F7.2	LINC03051, LSAMP; LSAMP - IGSF11; LSAMP, LINC03051	
+jansen_2019_public	5	6	GCST010097; GCST90131901; GCST90131903	Song W; Watanabe K	Insomnia	insomnia	RP11-6N13.1	NIHCOLE - RNU6-334P	
+jansen_2019_public	7	6	GCST010097; GCST90131901; GCST90131902; GCST90131903	Song W; Watanabe K	Insomnia	insomnia	LIN28B	LIN28B; LIN28B-AS1	LIN28B
+lane_2019_extreme	22	6	GCST010097; GCST90131901; GCST90131902; GCST90131903	Song W; Watanabe K	Insomnia	insomnia	LIN28B	LIN28B; LIN28B-AS1	LIN28B
+lane_2019_extreme	31	6	GCST90131901; GCST90131903	Watanabe K	Insomnia	insomnia		RPL6P25 - SLC6A15	
+lane_2019_extreme	4	6	GCST90131901; GCST90131902; GCST90131903	Watanabe K	Insomnia	insomnia		LINC01677 - MTATP6P14	
+lane_2019_extreme	6	6	GCST90131901; GCST90267286	Schoeler T; Watanabe K	Insomnia; Insomnia (standard GWA)	insomnia		IPO9-AS1, NAV1; LMOD1; LMOD1 - TIMM17A; NAV1, IPO9-AS1	
+lane_2019_extreme	7	6	GCST010097; GCST90131901; GCST90131902; GCST90267286	Schoeler T; Song W; Watanabe K	Insomnia; Insomnia (standard GWA)	insomnia	LINC01122	LINC01122	
+watanabe_2022_ukb	4	6	GCST010097; GCST90131901; GCST90131902; GCST90131903	Song W; Watanabe K	Insomnia	insomnia	LSAMP:RP11-384F7.2	LINC03051, LSAMP; LSAMP - IGSF11; LSAMP, LINC03051	
+watanabe_2022_ukb	5	6	GCST010097; GCST90131901; GCST90131903	Song W; Watanabe K	Insomnia	insomnia	RP11-6N13.1	NIHCOLE - RNU6-334P	
+watanabe_2022_ukb	7	6	GCST010097; GCST90131901; GCST90131902; GCST90131903	Song W; Watanabe K	Insomnia	insomnia	LIN28B	LIN28B; LIN28B-AS1	LIN28B
+jansen_2019_public	9	5	GCST010097; GCST90131901; GCST90131903	Song W; Watanabe K	Insomnia	insomnia	CNIH2	CNIH2; PACS1; RAB1B	
+lane_2019_extreme	2	5	GCST90131901; GCST90267286	Schoeler T; Watanabe K	Insomnia; Insomnia (standard GWA)	insomnia		DAB1	
+lane_2019_extreme	21	5	GCST90131901; GCST90131902; GCST90131903	Watanabe K	Insomnia	insomnia		ASCC3; ASCC3 - GRIK2	
+watanabe_2022_ukb	9	5	GCST010097; GCST90131901; GCST90131903	Song W; Watanabe K	Insomnia	insomnia	CNIH2	CNIH2; PACS1; RAB1B	
+lane_2019_extreme	17	4	GCST90131901; GCST90131903	Watanabe K	Insomnia	insomnia		GIN1; MACIR - PDZPH1P; PPIP5K2	
+lane_2019_extreme	30	4	GCST90131901; GCST90131903	Watanabe K	Insomnia	insomnia		HSD17B6 - SDR9C7; MYO1A; NEMP1; STAT6	
+lane_2019_extreme	28	3	GCST90131901; GCST90131903; GCST90267286	Schoeler T; Watanabe K	Insomnia; Insomnia (standard GWA)	insomnia		BORCS7-ASMT, AS3MT; C10orf95-AS1; CNNM2	
+jansen_2019_public	14	2	GCST90131901; GCST90134531	Watanabe K; Yin B	Decaffeinated coffee consumption and/or insomnia; Insomnia	coffee consumption measurement, insomnia; insomnia		TCF4	TCF4
+jansen_2019_public	3	2	GCST90131901; GCST90131903	Watanabe K	Insomnia	insomnia		LINC01911	
+lane_2019_extreme	39	2	GCST90131901; GCST90131903	Watanabe K	Insomnia	insomnia		CASC16	
+watanabe_2022_ukb	14	2	GCST90131901; GCST90134531	Watanabe K; Yin B	Decaffeinated coffee consumption and/or insomnia; Insomnia	coffee consumption measurement, insomnia; insomnia		TCF4	TCF4
+watanabe_2022_ukb	3	2	GCST90131901; GCST90131903	Watanabe K	Insomnia	insomnia		LINC01911	
+hammerschlag_2017	2	1	GCST004695	Hammerschlag AR	Insomnia complaints	insomnia	SCFD2	SCFD2	
+jansen_2019_public	1	1	GCST010097	Song W	Insomnia	insomnia	LINC01122	LINC01122	
+jansen_2019_public	10	1	GCST90134531	Yin B	Decaffeinated coffee consumption and/or insomnia	coffee consumption measurement, insomnia		SUPT20H	
+jansen_2019_public	12	1	GCST010097	Song W	Insomnia	insomnia	RPP40P2	RPP40P2 - RNU7-88P	
+jansen_2019_public	6	1	GCST010097	Song W	Insomnia	insomnia	CUL9:RP3-330M21.5	CUL9, CUL9-AS1	
+jansen_2019_public	8	1	GCST010097	Song W	Insomnia	insomnia	MSRA	MSRA	
+lane_2019_extreme	20	1	GCST90131901	Watanabe K	Insomnia	insomnia		MDGA1	
+lane_2019_extreme	26	1	GCST010097	Song W	Insomnia	insomnia	MSRA	MSRA	
+lane_2019_extreme	29	1	GCST010097	Song W	Insomnia	insomnia	PSMC3	PSMC3	
+lane_2019_extreme	5	1	GCST90131901	Watanabe K	Insomnia	insomnia		RORC	
+watanabe_2022_ukb	1	1	GCST010097	Song W	Insomnia	insomnia	LINC01122	LINC01122	
+watanabe_2022_ukb	10	1	GCST90134531	Yin B	Decaffeinated coffee consumption and/or insomnia	coffee consumption measurement, insomnia		SUPT20H	
+watanabe_2022_ukb	12	1	GCST010097	Song W	Insomnia	insomnia	RPP40P2	RPP40P2 - RNU7-88P	
+watanabe_2022_ukb	6	1	GCST010097	Song W	Insomnia	insomnia	CUL9:RP3-330M21.5	CUL9, CUL9-AS1	
+watanabe_2022_ukb	8	1	GCST010097	Song W	Insomnia	insomnia	MSRA	MSRA	

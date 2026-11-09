@@ -1,0 +1,57 @@
+network_id	network_label	rank_by_degree	gene_symbol	node_degree
+core16	Core16 (principal)	1	HEXIM1	1
+core16	Core16 (principal)	2	HEXIM2	1
+core16	Core16 (principal)	3	ACBD4	0
+core16	Core16 (principal)	4	DCAKD	0
+core16	Core16 (principal)	5	DNPH1	0
+core16	Core16 (principal)	6	FOXP2	0
+core16	Core16 (principal)	7	KLC2	0
+core16	Core16 (principal)	8	LIN28B	0
+core16	Core16 (principal)	9	MEIS1	0
+core16	Core16 (principal)	10	NMT1	0
+core16	Core16 (principal)	11	PAM	0
+core16	Core16 (principal)	12	PLCD3	0
+core16	Core16 (principal)	13	SMAD5	0
+core16	Core16 (principal)	14	SMIM32	0
+core16	Core16 (principal)	15	TCF4	0
+core16	Core16 (principal)	16	TRPC7	0
+legacy28	Legacy28 (sensibilidade histórica)	1	BTBD9	1
+legacy28	Legacy28 (sensibilidade histórica)	2	HEXIM1	1
+legacy28	Legacy28 (sensibilidade histórica)	3	HEXIM2	1
+legacy28	Legacy28 (sensibilidade histórica)	4	MEIS1	1
+legacy28	Legacy28 (sensibilidade histórica)	5	ACBD4	0
+legacy28	Legacy28 (sensibilidade histórica)	6	CDH13	0
+legacy28	Legacy28 (sensibilidade histórica)	7	CHCHD3	0
+legacy28	Legacy28 (sensibilidade histórica)	8	CNIH2	0
+legacy28	Legacy28 (sensibilidade histórica)	9	CUL9	0
+legacy28	Legacy28 (sensibilidade histórica)	10	DCAKD	0
+legacy28	Legacy28 (sensibilidade histórica)	11	DNPH1	0
+legacy28	Legacy28 (sensibilidade histórica)	12	FOXP2	0
+legacy28	Legacy28 (sensibilidade histórica)	13	KDM4B	0
+legacy28	Legacy28 (sensibilidade histórica)	14	KLC2	0
+legacy28	Legacy28 (sensibilidade histórica)	15	LIN28B	0
+legacy28	Legacy28 (sensibilidade histórica)	16	LSAMP	0
+legacy28	Legacy28 (sensibilidade histórica)	17	MFSD1	0
+legacy28	Legacy28 (sensibilidade histórica)	18	NMT1	0
+legacy28	Legacy28 (sensibilidade histórica)	19	PAM	0
+legacy28	Legacy28 (sensibilidade histórica)	20	PLCD3	0
+global_gwas_catalog	GWAS Catalog global (descritiva)	1	EP300	17
+global_gwas_catalog	GWAS Catalog global (descritiva)	2	DLG2	11
+global_gwas_catalog	GWAS Catalog global (descritiva)	3	NRXN1	10
+global_gwas_catalog	GWAS Catalog global (descritiva)	4	FYN	9
+global_gwas_catalog	GWAS Catalog global (descritiva)	5	KAT2B	9
+global_gwas_catalog	GWAS Catalog global (descritiva)	6	SHANK1	9
+global_gwas_catalog	GWAS Catalog global (descritiva)	7	SNCA	9
+global_gwas_catalog	GWAS Catalog global (descritiva)	8	APOE	8
+global_gwas_catalog	GWAS Catalog global (descritiva)	9	GRIA1	8
+global_gwas_catalog	GWAS Catalog global (descritiva)	10	NLGN1	8
+global_gwas_catalog	GWAS Catalog global (descritiva)	11	NLGN4X	8
+global_gwas_catalog	GWAS Catalog global (descritiva)	12	ERBB4	7
+global_gwas_catalog	GWAS Catalog global (descritiva)	13	KLC1	7
+global_gwas_catalog	GWAS Catalog global (descritiva)	14	SPI1	7
+global_gwas_catalog	GWAS Catalog global (descritiva)	15	ASXL1	6
+global_gwas_catalog	GWAS Catalog global (descritiva)	16	DLGAP2	6
+global_gwas_catalog	GWAS Catalog global (descritiva)	17	GRM5	6
+global_gwas_catalog	GWAS Catalog global (descritiva)	18	H3-3A	6
+global_gwas_catalog	GWAS Catalog global (descritiva)	19	IGF2BP1	6
+global_gwas_catalog	GWAS Catalog global (descritiva)	20	PICALM	6

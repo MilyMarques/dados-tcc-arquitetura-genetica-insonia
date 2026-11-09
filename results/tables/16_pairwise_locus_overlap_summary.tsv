@@ -1,0 +1,7 @@
+study_a	study_b	overlapping_locus_pairs
+hammerschlag_2017	jansen_2019_public	1
+lane_2019_extreme	jansen_2019_public	8
+hammerschlag_2017	lane_2019_extreme	1
+hammerschlag_2017	watanabe_2022_ukb	1
+jansen_2019_public	watanabe_2022_ukb	14
+lane_2019_extreme	watanabe_2022_ukb	8

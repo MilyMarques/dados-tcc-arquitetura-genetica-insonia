@@ -1,0 +1,13 @@
+# Raw or bulky source data: download from original repositories, never commit here
+*.gz
+*.zip
+*.vcf
+*.bcf
+*.RData
+*.Rhistory
+R_libs/
+sumstats_brutas/
+FUMA_job*/
+Resultados_brutos/
+.DS_Store
+Thumbs.db

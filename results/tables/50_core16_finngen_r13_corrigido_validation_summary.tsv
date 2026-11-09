@@ -1,0 +1,6 @@
+metric	value
+source_job	FUMA_job763972_finnr13_corrigido-full.zip
+magma_genes_tested	18802
+bonferroni_threshold	2.65929156473e-06
+core16_tested	16
+core16_bonferroni_supported	0

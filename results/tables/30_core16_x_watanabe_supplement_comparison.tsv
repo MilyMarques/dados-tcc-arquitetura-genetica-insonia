@@ -1,0 +1,17 @@
+GENE	SYMBOL	priority_tier	current_magma_units	current_mapping_modalities	watanabe_fuma_mapped	watanabe_fuma_locus	watanabe_fuma_in_locus	watanabe_high_confidence	watanabe_hc_label	watanabe_hcp	comparison_interpretation
+ENSG00000143995	MEIS1	high_priority	hammerschlag;lane;ukb_public	2	TRUE		1	FALSE		FALSE	Concordante: gene core atual tambem mapeado por FUMA em Watanabe
+ENSG00000181513	ACBD4	high_priority	lane;ukb_public	2	TRUE	501	1	FALSE		FALSE	Concordante: gene core atual tambem mapeado por FUMA em Watanabe
+ENSG00000168517	HEXIM2	high_priority	lane;ukb_public	2	TRUE	501	1	FALSE		FALSE	Concordante: gene core atual tambem mapeado por FUMA em Watanabe
+ENSG00000186834	HEXIM1	high_priority	lane;ukb_public	2	TRUE	501	1	FALSE		FALSE	Concordante: gene core atual tambem mapeado por FUMA em Watanabe
+ENSG00000128573	FOXP2	high_priority	lane;ukb_public	2	TRUE	260:261	1	TRUE	HC-1	TRUE	Concordante: gene core atual e HCP no estudo Watanabe
+ENSG00000271824	SMIM32	high_priority	lane;ukb_public	2	FALSE			FALSE		FALSE	Gene core atual adicional: nao listado no mapeamento FUMA publicado de Watanabe
+ENSG00000113658	SMAD5	high_priority	lane;ukb_public	3	TRUE	187	1	FALSE		FALSE	Concordante: gene core atual tambem mapeado por FUMA em Watanabe
+ENSG00000136448	NMT1	high_priority	lane;ukb_public	3	TRUE	501	1	TRUE	HC-m	FALSE	Concordante: gene core atual tambem mapeado por FUMA em Watanabe
+ENSG00000172992	DCAKD	high_priority	lane;ukb_public	2	TRUE	501	1	TRUE	HC-m	FALSE	Concordante: gene core atual tambem mapeado por FUMA em Watanabe
+ENSG00000145730	PAM	high_priority	lane;ukb_public	2	TRUE	180	1	FALSE		FALSE	Concordante: gene core atual tambem mapeado por FUMA em Watanabe
+ENSG00000174996	KLC2	high_priority	lane;ukb_public	2	TRUE	372	1	FALSE		FALSE	Concordante: gene core atual tambem mapeado por FUMA em Watanabe
+ENSG00000112667	DNPH1	high_priority	lane;ukb_public	3	FALSE			FALSE		FALSE	Gene core atual adicional: nao listado no mapeamento FUMA publicado de Watanabe
+ENSG00000196628	TCF4	intermediate_priority	lane;ukb_public	1	TRUE	516	1	TRUE	HC-1	TRUE	Concordante: gene core atual e HCP no estudo Watanabe
+ENSG00000161714	PLCD3	intermediate_priority	lane;ukb_public	1	TRUE	501	1	FALSE		FALSE	Concordante: gene core atual tambem mapeado por FUMA em Watanabe
+ENSG00000069018	TRPC7	intermediate_priority	lane;ukb_public	1	TRUE	187	1	FALSE		FALSE	Concordante: gene core atual tambem mapeado por FUMA em Watanabe
+ENSG00000187772	LIN28B	intermediate_priority	lane;ukb_public	1	TRUE	226	1	FALSE		FALSE	Concordante: gene core atual tambem mapeado por FUMA em Watanabe

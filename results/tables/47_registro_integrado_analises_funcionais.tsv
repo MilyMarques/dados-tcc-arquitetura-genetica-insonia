@@ -1,0 +1,13 @@
+analysis_id	platform	role	query_size	custom_background	correction	n_significant_gene_sets	significant_categories	status	source
+core16	FUMA GENE2FUNC	Núcleo principal; quatro estudos	16	sim	Benjamini-Hochberg FDR < 0.05	16	GO_mf; GWAScatalog; Positional_gene_sets; TF_targets	significativo	Resultados_GENE2FUNC\FUMA_gene2func761816_16_genes.zip
+legacy28	FUMA GENE2FUNC	Sensibilidade histórica Jansen–Watanabe; não independente	28	sim	Benjamini-Hochberg FDR < 0.05	25	Cell_type_signature; GWAScatalog; Positional_gene_sets; TF_targets	significativo	Resultados_GENE2FUNC\FUMA_gene2func762928_28_genes_legacy.zip
+watanabe_hcp289	FUMA GENE2FUNC	Contexto publicado de Watanabe; não redefine core16	289	sim	Benjamini-Hochberg FDR < 0.05	43	Canonical_Pathways; Cell_type_signature; Chemical_and_Genetic_pertubation; Curated_gene_sets; GO_bp; GWAScatalog; KEGG; Reactome; TF_targets; Wikipathways	significativo	Resultados_GENE2FUNC\FUMA_gene2func763975_Watanabe_2022_HCP289_contextual.zip
+finngen_r13_corrected	FUMA GENE2FUNC	Validação externa FinnGen R13 corrigido	21	sim	Benjamini-Hochberg FDR < 0.05	14	Canonical_Pathways; Curated_gene_sets; GWAScatalog; Positional_gene_sets; Wikipathways	significativo	Resultados_GENE2FUNC\FUMA_gene2func764514_finngen_R13.zip
+watanabe_hcp289	ShinyGO	Contexto publicado de Watanabe; não redefine core16	289	sim; background contextual Watanabe informado	FDR < 0.05	12	KEGG	significativo	Resultados_ShinyGO\ShinyGO_HCP_289_Watanabe\enrichment_all.csv
+core16	g:Profiler g:GOSt	Núcleo principal; quatro estudos	16	sim	g:SCS < 0.05	0	nenhuma	sem termos significativos; All results é exploratório	Resultados_gProfiler
+legacy28	g:Profiler g:GOSt	Sensibilidade histórica Jansen–Watanabe	28	sim	g:SCS < 0.05	0	nenhuma	sem termos significativos; All results é exploratório	Resultados_gProfiler
+watanabe_hcp289	g:Profiler g:GOSt	Contexto publicado Watanabe	289	sim	g:SCS < 0.05	0	nenhuma	sem termos significativos; All results é exploratório	Resultados_gProfiler
+finngen_r13_corrected	g:Profiler g:GOSt	Validação externa FinnGen R13 corrigido	21	sim	g:SCS < 0.05	0	nenhuma	sem termos significativos; All results é exploratório	Resultados_gProfiler
+finngen_r13_corrected	ShinyGO	Validação externa FinnGen R13 corrigido	21	sim	FDR < 0.05	0	nenhuma	sem termos significativos	Resultados_ShinyGO/ShinyGO_finngen_r13/enrichment_all.csv
+core16	ShinyGO	Núcleo principal; quatro estudos	16	sim	FDR < 0.05	0	nenhuma	sem termos significativos	Resultados_ShinyGO
+legacy28	ShinyGO	Sensibilidade histórica Jansen–Watanabe	28	sim	FDR < 0.05	0	nenhuma	sem termos significativos	Resultados_ShinyGO

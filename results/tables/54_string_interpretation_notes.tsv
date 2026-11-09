@@ -1,0 +1,5 @@
+network_id	interpretive_note
+core16	A rede principal é muito esparsa: somente HEXIM1–HEXIM2 permaneceu com score >=0.700. PPI enrichment p=0.0573, portanto não há evidência formal de conectividade acima do acaso a 0.05.
+legacy28	A sensibilidade histórica mostrou duas arestas (HEXIM1–HEXIM2 e BTBD9–MEIS1) e PPI enrichment p=0.0153. Isso indica conectividade acima da expectativa, mas não um módulo denso; é uma análise de sensibilidade, não substitui o Core16.
+global_gwas_catalog	A rede global é descritiva e apresenta convergência para sinalização sináptica, transmissão trans-sináptica, desenvolvimento do sistema nervoso e adesão celular. Ela não demonstra causalidade, porque os genes são mapeamentos de associações heterogêneas do GWAS Catalog.
+all	As anotações de fenótipo “insônia/sleep” no STRING são circulares para listas selecionadas por associações de insônia e não devem ser tratadas como descoberta funcional.

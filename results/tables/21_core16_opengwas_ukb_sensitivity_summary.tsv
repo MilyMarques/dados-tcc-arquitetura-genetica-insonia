@@ -1,0 +1,17 @@
+GENE	SYMBOL	priority_tier	n_ukb_sensitivity_runs_tested	n_ukb_sensitivity_runs_bonferroni	n_ukb_sensitivity_runs_fdr	ukb_runs_bonferroni	best_ukb_magma_p	sensitivity_interpretation
+ENSG00000196628	TCF4	intermediate_priority	2	2	2	ukb_a_13;ukb_b_3957	0.00000000000000015267	Sensibilidade técnica UKB; não adiciona unidade de evidência independente.
+ENSG00000168517	HEXIM2	high_priority	2	2	2	ukb_a_13;ukb_b_3957	0.000000000000015543	Sensibilidade técnica UKB; não adiciona unidade de evidência independente.
+ENSG00000161714	PLCD3	intermediate_priority	2	2	2	ukb_a_13;ukb_b_3957	0.000000000000018097	Sensibilidade técnica UKB; não adiciona unidade de evidência independente.
+ENSG00000181513	ACBD4	high_priority	2	2	2	ukb_a_13;ukb_b_3957	0.000000000000065836	Sensibilidade técnica UKB; não adiciona unidade de evidência independente.
+ENSG00000143995	MEIS1	high_priority	2	2	2	ukb_a_13;ukb_b_3957	0.0000000000006193	Sensibilidade técnica UKB; não adiciona unidade de evidência independente.
+ENSG00000128573	FOXP2	high_priority	2	2	2	ukb_a_13;ukb_b_3957	0.00000000000083297	Sensibilidade técnica UKB; não adiciona unidade de evidência independente.
+ENSG00000186834	HEXIM1	high_priority	2	2	2	ukb_a_13;ukb_b_3957	0.0000000000011682	Sensibilidade técnica UKB; não adiciona unidade de evidência independente.
+ENSG00000271824	SMIM32	high_priority	2	2	2	ukb_a_13;ukb_b_3957	0.0000000000050759	Sensibilidade técnica UKB; não adiciona unidade de evidência independente.
+ENSG00000113658	SMAD5	high_priority	2	2	2	ukb_a_13;ukb_b_3957	0.0000000000065803	Sensibilidade técnica UKB; não adiciona unidade de evidência independente.
+ENSG00000069018	TRPC7	intermediate_priority	2	2	2	ukb_a_13;ukb_b_3957	0.000000000069046	Sensibilidade técnica UKB; não adiciona unidade de evidência independente.
+ENSG00000136448	NMT1	high_priority	2	2	2	ukb_a_13;ukb_b_3957	0.00000000024	Sensibilidade técnica UKB; não adiciona unidade de evidência independente.
+ENSG00000172992	DCAKD	high_priority	2	2	2	ukb_a_13;ukb_b_3957	0.000000004476	Sensibilidade técnica UKB; não adiciona unidade de evidência independente.
+ENSG00000112667	DNPH1	high_priority	2	2	2	ukb_a_13;ukb_b_3957	0.00000019934	Sensibilidade técnica UKB; não adiciona unidade de evidência independente.
+ENSG00000187772	LIN28B	intermediate_priority	2	1	2	ukb_b_3957	0.0000000013729	Sensibilidade técnica UKB; não adiciona unidade de evidência independente.
+ENSG00000145730	PAM	high_priority	2	1	2	ukb_b_3957	0.000000097884	Sensibilidade técnica UKB; não adiciona unidade de evidência independente.
+ENSG00000174996	KLC2	high_priority	2	1	2	ukb_b_3957	0.00000016503	Sensibilidade técnica UKB; não adiciona unidade de evidência independente.

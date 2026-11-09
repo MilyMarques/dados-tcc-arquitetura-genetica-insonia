@@ -1,0 +1,3 @@
+#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+HEXIM1	HEXIM2	9606.ENSP00000328773	9606.ENSP00000302276	0	0	0.089	0.874	0.055	0.848	0	0.968	0.995
+HEXIM2	HEXIM1	9606.ENSP00000302276	9606.ENSP00000328773	0	0	0.089	0.874	0.055	0.848	0	0.968	0.995
