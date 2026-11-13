@@ -1,0 +1,27 @@
+{
+  "study_id": "ukb_a_13",
+  "label": "OpenGWAS ukb-a-13 (Neale Lab)",
+  "role": "Análise de sensibilidade UK Biobank; não representa evidência independente adicional.",
+  "phenotype": "Sleeplessness / insomnia (UK Biobank)",
+  "population": "European",
+  "build": "GRCh37",
+  "fuma_file": "ukb_a_13.FUMA.txt.gz",
+  "effect_allele": "A1 = ALT",
+  "non_effect_allele": "A2 = REF",
+  "effect_note": "ES é exportado como BETA relativo ao ALT; fenótipo UKB ordinal padronizado, não interpretar como log(OR).",
+  "fixed_n_when_SS_absent": 336965,
+  "cases": null,
+  "controls": null,
+  "columns": [
+    "SNP",
+    "CHR",
+    "BP",
+    "A1",
+    "A2",
+    "BETA",
+    "SE",
+    "P",
+    "N"
+  ],
+  "status": "VALIDATE_BEFORE_UPLOAD"
+}

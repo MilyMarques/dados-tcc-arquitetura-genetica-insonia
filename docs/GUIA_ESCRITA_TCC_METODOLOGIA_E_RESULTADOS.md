@@ -22,7 +22,7 @@ Informe que as estatísticas foram padronizadas, auditadas e validadas antes da 
 
 ### 3. FUMA SNP2GENE e MAGMA
 
-Reporte os parâmetros efetivamente fixados entre os quatro estudos principais: painel 1000G Phase 3 EUR; SNPs independentes significativos com r² <0,6; lead SNPs com r² <0,1; limiar de associação P<5×10⁻⁸; SNPs candidatos P<0,05; janela de locus 250 kb; MHC excluído do SNP2GENE; e mapeamento posicional, eQTL e interação cromatínica conforme os jobs. Registre Ensembl v110 nos jobs principais e v110_userGen no FinnGen corrigido e no GENE2FUNC. Para MAGMA, diferencie claramente:
+Reporte os parâmetros efetivamente fixados entre os quatro estudos principais: painel 1000G Phase 3 EUR; SNPs independentes significativos com r² <0,6; lead SNPs com r² <0,1; limiar de associação P<5×10⁻⁸; SNPs candidatos P<0,05; janela de locus 250 kb; MHC excluído do SNP2GENE; e mapeamento posicional, eQTL e interação cromatínica conforme os jobs. Para os outputs finais integrados, registre FUMA v1.8.2, MAGMA v1.08 e Ensembl v110_userGen; as configurações históricas v1.8.3/v1.10/v110 de Jansen e Watanabe devem ser mencionadas, se necessário, apenas como execuções anteriores preservadas no arquivo. Para MAGMA, diferencie claramente:
 
 - análise **gene-based**, que produz `magma.genes.out` e fornece a significância Bonferroni por gene;
 - análise **gene-set**, que testa conjuntos/vias e não selecionou os genes do Core16.

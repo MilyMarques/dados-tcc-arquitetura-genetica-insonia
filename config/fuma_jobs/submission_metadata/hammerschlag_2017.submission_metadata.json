@@ -1,0 +1,22 @@
+{
+  "study_id": "hammerschlag_2017",
+  "fuma_file": "hammerschlag_2017.FUMA.txt.gz",
+  "build": "GRCh37",
+  "columns": [
+    "SNP",
+    "CHR",
+    "BP",
+    "A1",
+    "A2",
+    "BETA",
+    "SE",
+    "P",
+    "N"
+  ],
+  "effect_allele": "A1",
+  "non_effect_allele": "A2",
+  "p_column": "P",
+  "sample_size_column": "N",
+  "candidate_status": "VALIDATE_BEFORE_UPLOAD",
+  "note": "Arquivo original GRCh37; BETA original é usado porque reproduz P com SE."
+}

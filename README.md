@@ -12,9 +12,11 @@ O conjunto **Core16** reúne genes *protein-coding* com significância MAGMA por
 - `scripts_em_python_e_node/`: integrações complementares, incluindo GWAS Catalog, FinnGen corrigido e STRING.
 - `scripts_em_R/`: integração dos resultados FUMA/MAGMA.
 - `inputs/`: listas pequenas reutilizáveis para análises de sensibilidade e STRING.
+- `config/fuma_jobs/`: parâmetros exportados dos jobs FUMA e metadados de submissão dos inputs SNP2GENE.
 - `results/tables/`: tabelas finais para o manuscrito.
 - `results/figures/`: figuras STRING selecionadas.
 - `results/string_exports/`: exportações tabulares originais do STRING que sustentam a integração.
+- `supplementary_appendices/`: apêndices gráficos suplementares organizados por análise.
 - `docs/`: metodologia, interpretação e guia de escrita.
 - `data_availability/`: política para dados brutos não versionados.
 

@@ -1,0 +1,22 @@
+{
+  "study_id": "jansen_2019_public",
+  "fuma_file": "jansen_2019_public.FUMA.txt.gz",
+  "build": "GRCh37",
+  "columns": [
+    "SNP",
+    "CHR",
+    "BP",
+    "A1",
+    "A2",
+    "BETA",
+    "SE",
+    "P",
+    "N"
+  ],
+  "effect_allele": "A1",
+  "non_effect_allele": "A2",
+  "p_column": "P",
+  "sample_size_column": "N",
+  "candidate_status": "VALIDATE_BEFORE_UPLOAD",
+  "note": "Versão pública UK Biobank; BETA é calculado como log(OR)."
+}

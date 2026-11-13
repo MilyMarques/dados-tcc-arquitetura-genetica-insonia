@@ -7,7 +7,7 @@
 *.Rhistory
 R_libs/
 sumstats_brutas/
-FUMA_job*/
+/FUMA_job*/
 Resultados_brutos/
 .DS_Store
 Thumbs.db

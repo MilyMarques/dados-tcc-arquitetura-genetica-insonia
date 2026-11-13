@@ -1,0 +1,25 @@
+{
+  "study_id": "finngen_r13_f5_insomnia",
+  "label": "FinnGen R13 F5_INSOMNIA",
+  "role": "Validacao externa principal: coorte FinnGen independente do UK Biobank; nao redefine sozinha o core16.",
+  "phenotype": "Insomnia clinica por registros de saude: ICD-10 F51.0 ou G47.0; controles excluem F5_SLEEP.",
+  "population": "Finnish/European",
+  "build": "GRCh38 convertido para GRCh37/hg19 por UCSC liftOver",
+  "cases": 51643,
+  "controls": 446273,
+  "N": 497916,
+  "effect_allele": "A1=ALT (beta FinnGen relativo ao alelo alternativo)",
+  "fuma_file": "finngen_r13_f5_insomnia.FUMA.txt.gz",
+  "columns": [
+    "SNP",
+    "CHR",
+    "BP",
+    "A1",
+    "A2",
+    "BETA",
+    "SE",
+    "P",
+    "N"
+  ],
+  "status": "VALIDATE_BEFORE_UPLOAD"
+}

@@ -74,7 +74,7 @@ Foram usadas anotações funcionais disponibilizadas pelo FUMA. A região MHC fo
 
 ### Versão de genes
 
-Os jobs principais de Jansen e Watanabe utilizaram Ensembl v110; o FinnGen corrigido e o GENE2FUNC do Core16 utilizaram Ensembl `v110_userGen`. Para o núcleo posterior, foram retidos genes *protein-coding*, garantindo uma lista interpretável nas ferramentas de vias e redes proteicas.
+Os outputs finais integrados neste release vieram dos jobs SNP2GENE 758083, 758591, 758172, 758173, 761601, 761609 e 763972. Seus arquivos `params.config` registram FUMA v1.8.2, MAGMA v1.08 e Ensembl `v110_userGen`. Existem configurações históricas de Jansen e Watanabe, criadas antes da reexecução final, com FUMA v1.8.3, MAGMA v1.10 e Ensembl v110; elas foram preservadas apenas como registro histórico e não são a fonte dos resultados integrados pelo pipeline final. Os jobs GENE2FUNC deste release também utilizaram `v110_userGen`. Para o núcleo posterior, foram retidos genes *protein-coding*, garantindo uma lista interpretável nas ferramentas de vias e redes proteicas.
 
 ## 5. MAGMA
 

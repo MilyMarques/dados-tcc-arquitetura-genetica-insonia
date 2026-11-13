@@ -1,0 +1,34 @@
+{
+  "snp2gene_parameter_files": [
+    "finngen_r13_corrected_job763972.params.config",
+    "hammerschlag_2017_job758083.params.config",
+    "jansen_2019_public_job758172.params.config",
+    "lane_2019_extreme_job758591.params.config",
+    "ukb_a_13_job761601.params.config",
+    "ukb_b_3957_job761609.params.config",
+    "watanabe_2022_ukb_job758173.params.config"
+  ],
+  "gene2func_parameter_files": [
+    "core16_job761816.params.config",
+    "finngen_r13_job764514.params.config",
+    "gwas_catalog_global_job769313.params.config",
+    "hcp289_job763975.params.config",
+    "legacy28_job762928.params.config"
+  ],
+  "submission_metadata_files": [
+    "finngen_r13_corrected.submission_metadata.json",
+    "hammerschlag_2017.submission_metadata.json",
+    "jansen_2019_public.submission_metadata.json",
+    "lane_2019_extreme.submission_metadata.json",
+    "ukb_a_13.submission_metadata.json",
+    "ukb_b_3957.submission_metadata.json",
+    "watanabe_2022_ukb.submission_metadata.json"
+  ],
+  "additional_vector_figures": [
+    "Figura_3_fluxograma_metodologico.svg",
+    "Figura_4_locus_MEIS1_Lane.svg",
+    "Figura_7_processos_STRING_global.svg",
+    "STRING_legacy28__STRING_SVG_enrichment_PMID_sim0.8_graph_legacy28.svg",
+    "STRING_legacy28__STRING_svg_mapping_legacy28.svg"
+  ]
+}

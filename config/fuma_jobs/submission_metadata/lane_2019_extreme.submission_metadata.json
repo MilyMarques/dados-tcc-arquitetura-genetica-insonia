@@ -1,0 +1,21 @@
+{
+  "study_id": "lane_2019_extreme",
+  "fuma_file": "lane_2019_extreme.FUMA.txt.gz",
+  "build": "GRCh37",
+  "columns": [
+    "CHR",
+    "BP",
+    "A1",
+    "A2",
+    "BETA",
+    "SE",
+    "P",
+    "N"
+  ],
+  "effect_allele": "A1",
+  "non_effect_allele": "A2",
+  "p_column": "P",
+  "sample_size_column": "N",
+  "candidate_status": "VALIDATE_BEFORE_UPLOAD",
+  "note": "Insomnia extreme symptoms versus controls. Sem coluna SNP para evitar IDs chr:pos não-rsID; FUMA usa CHR+BP."
+}

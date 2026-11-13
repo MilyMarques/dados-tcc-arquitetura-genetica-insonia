@@ -1,0 +1,22 @@
+{
+  "study_id": "watanabe_2022_ukb",
+  "fuma_file": "watanabe_2022_ukb.FUMA.txt.gz",
+  "build": "GRCh37",
+  "columns": [
+    "SNP",
+    "CHR",
+    "BP",
+    "A1",
+    "A2",
+    "BETA",
+    "SE",
+    "P",
+    "N"
+  ],
+  "effect_allele": "A1",
+  "non_effect_allele": "A2",
+  "p_column": "P",
+  "sample_size_column": "N",
+  "candidate_status": "VALIDATE_BEFORE_UPLOAD",
+  "note": "Componente UK Biobank. RSID_UKB é usado como SNP; A1/A2 são os alelos do modelo e BETA=log(OR)."
+}
