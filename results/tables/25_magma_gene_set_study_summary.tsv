@@ -1,0 +1,5 @@
+study_id	label	independent_unit	gene_sets_tested	bonferroni_threshold	n_bonferroni	n_fdr	best_p
+hammerschlag_2017	Hammerschlag 2017	hammerschlag	17010	0.00000293944738389183	0	0	0.000045653
+lane_2019_extreme	Lane 2019	lane	17010	0.00000293944738389183	0	3	0.0000030051
+jansen_2019_public	Jansen 2019 public UKB	ukb_public	17010	0.00000293944738389183	0	0	0.00001215
+watanabe_2022_ukb	Watanabe 2022 public UKB	ukb_public	17010	0.00000293944738389183	0	0	0.000013052

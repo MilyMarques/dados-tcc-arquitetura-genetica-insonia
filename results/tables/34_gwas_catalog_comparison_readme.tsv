@@ -1,0 +1,6 @@
+item	value
+analysis_role	External descriptive concordance with curated GWAS Catalog insomnia associations
+catalog_file	gwas-association-downloaded_2026-08-12-MONDO_0013600_insomnia.tsv
+catalog_associations_input	3958
+matching_rule	Exact rsID overlap between a curated GWAS Catalog association and a FUMA candidate SNP; candidate SNP identifies the FUMA locus. This avoids coordinate/build mismatch.
+important_limit	GWAS Catalog reported/mapped genes use study-specific curation and are not causal assignments or independent replication

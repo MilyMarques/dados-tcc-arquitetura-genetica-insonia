@@ -1,0 +1,4 @@
+FULL_NAME	TYPE	NGENES	n_studies_tested	n_independent_units_tested	n_studies_fdr	n_independent_units_fdr	n_studies_bonferroni	n_independent_units_bonferroni	best_p	best_fdr	units_fdr	studies_fdr	interpretation
+NIKOLSKY_BREAST_CANCER_20Q11_AMPLICON	SET	31	4	3	1	1	0	0	0.0000030051	0.030218265	lane	lane_2019_extreme	Significativo em uma unidade; exploratório
+BOYERINAS_ONCOFETAL_TARGETS_OF_LET7A1	SET	10	4	3	1	1	0	0	0.000003553	0.030218265	lane	lane_2019_extreme	Significativo em uma unidade; exploratório
+WP_NEUROGENESIS_REGULATION_IN_THE_OLFACTORY_EPITHELIUM	SET	56	4	3	1	1	0	0	0.0000084084	0.047675628	lane	lane_2019_extreme	Significativo em uma unidade; exploratório

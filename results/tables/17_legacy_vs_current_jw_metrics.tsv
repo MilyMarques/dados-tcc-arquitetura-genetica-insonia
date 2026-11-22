@@ -1,0 +1,10 @@
+metric	n_genes
+legacy_jansen	26
+legacy_watanabe	26
+legacy_intersection	24
+legacy_union	28
+current_jansen	23
+current_watanabe	24
+current_intersection	20
+current_union	27
+legacy_current_union_intersection	24

@@ -1,0 +1,4 @@
+item	value
+role	Sensitivity only
+method	MAGMA competitive gene-set; BH FDR within each UKB job
+limit	Both datasets are UK Biobank based and not independent validation

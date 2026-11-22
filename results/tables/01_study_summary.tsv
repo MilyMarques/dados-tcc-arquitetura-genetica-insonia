@@ -1,0 +1,5 @@
+study_id	label	evidence_unit	independent_significant_snps	lead_snps	genomic_risk_loci	mapped_genes	eqtl_pairs	chromatin_interaction_pairs	magma_genes_tested	magma_bonferroni_threshold	magma_bonferroni_significant	magma_fdr_significant
+hammerschlag_2017	Hammerschlag 2017	hammerschlag	6	2	2	7	0	18	18842	0.0000026536461097548	1	1
+lane_2019_extreme	Lane 2019: sintomas extremos	lane	137	58	45	383	28392	2662	18791	0.00000266084827843116	103	1174
+jansen_2019_public	Jansen 2019: UKB público	ukb_public	35	15	14	104	841	459	18765	0.00000266453503863576	23	261
+watanabe_2022_ukb	Watanabe 2022: UKB público	ukb_public	35	15	14	104	1005	490	18791	0.00000266084827843116	24	286

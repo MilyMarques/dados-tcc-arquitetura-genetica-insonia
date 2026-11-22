@@ -1,0 +1,3 @@
+study_id	label	magma_genes_tested	magma_bonferroni_threshold	magma_bonferroni_significant	magma_fdr_significant	role
+ukb_a_13	OpenGWAS ukb-a-13 (Neale Lab)	18774	0.00000266325769681474	52	625	UKB sensitivity only
+ukb_b_3957	OpenGWAS ukb-b-3957 (PHESANT)	18838	0.00000265420957638815	120	1275	UKB sensitivity only

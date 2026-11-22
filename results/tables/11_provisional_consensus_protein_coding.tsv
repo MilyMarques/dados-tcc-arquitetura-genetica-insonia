@@ -1,0 +1,17 @@
+GENE	SYMBOL	gene_type	protein_coding	n_fuma_studies_magma_bonf	n_independent_units_magma_bonf	magma_bonf_units	n_independent_units_magma_fdr	positional	positional_units	eqtl_brain	eqtl_units	chromatin_cortex	chromatin_units	n_mapping_modalities	n_independent_units_with_any_mapping	best_magma_p	priority_tier
+ENSG00000143995	MEIS1	protein_coding	TRUE	4	3	hammerschlag;lane;ukb_public	3	TRUE	hammerschlag;lane;ukb_public	FALSE		TRUE	hammerschlag;lane;ukb_public	2	3	0.00000000000038406	high_priority
+ENSG00000181513	ACBD4	protein_coding	TRUE	3	2	lane;ukb_public	2	TRUE	lane;ukb_public	TRUE	lane;ukb_public	FALSE		2	2	0.0000000000000009992	high_priority
+ENSG00000168517	HEXIM2	protein_coding	TRUE	3	2	lane;ukb_public	2	TRUE	lane;ukb_public	FALSE		TRUE	lane;ukb_public	2	2	0.0000000000000020539	high_priority
+ENSG00000186834	HEXIM1	protein_coding	TRUE	3	2	lane;ukb_public	2	TRUE	lane;ukb_public	TRUE	lane;ukb_public	FALSE		2	2	0.000000000000043299	high_priority
+ENSG00000128573	FOXP2	protein_coding	TRUE	3	2	lane;ukb_public	2	TRUE	lane	FALSE		TRUE	lane	2	1	0.00000000000074451	high_priority
+ENSG00000271824	SMIM32	protein_coding	TRUE	3	2	lane;ukb_public	2	TRUE	lane	TRUE	lane	FALSE		2	1	0.000000000013788	high_priority
+ENSG00000113658	SMAD5	protein_coding	TRUE	2	2	lane;ukb_public	2	TRUE	lane	TRUE	lane	TRUE	lane	3	1	0.000000000017094	high_priority
+ENSG00000136448	NMT1	protein_coding	TRUE	3	2	lane;ukb_public	2	TRUE	lane;ukb_public	TRUE	lane;ukb_public	TRUE	lane;ukb_public	3	2	0.0000000002942	high_priority
+ENSG00000172992	DCAKD	protein_coding	TRUE	3	2	lane;ukb_public	2	TRUE	lane;ukb_public	TRUE	lane;ukb_public	FALSE		2	2	0.000000010212	high_priority
+ENSG00000145730	PAM	protein_coding	TRUE	2	2	lane;ukb_public	2	TRUE	lane	TRUE	lane	FALSE		2	1	0.000000010971	high_priority
+ENSG00000174996	KLC2	protein_coding	TRUE	3	2	lane;ukb_public	2	TRUE	ukb_public	FALSE		TRUE	ukb_public	2	1	0.000000036327	high_priority
+ENSG00000112667	DNPH1	protein_coding	TRUE	3	2	lane;ukb_public	2	TRUE	ukb_public	TRUE	ukb_public	TRUE	ukb_public	3	1	0.000000052165	high_priority
+ENSG00000196628	TCF4	protein_coding	TRUE	3	2	lane;ukb_public	2	TRUE	lane;ukb_public	FALSE		FALSE		1	2	0.0000000000000012339	intermediate_priority
+ENSG00000161714	PLCD3	protein_coding	TRUE	3	2	lane;ukb_public	2	TRUE	lane;ukb_public	FALSE		FALSE		1	2	0.000000000000021483	intermediate_priority
+ENSG00000069018	TRPC7	protein_coding	TRUE	3	2	lane;ukb_public	2	TRUE	lane	FALSE		FALSE		1	1	0.000000000032094	intermediate_priority
+ENSG00000187772	LIN28B	protein_coding	TRUE	3	2	lane;ukb_public	2	TRUE	lane;ukb_public	FALSE		FALSE		1	2	0.00000000014152	intermediate_priority

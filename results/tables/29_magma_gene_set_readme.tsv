@@ -1,0 +1,7 @@
+item	value
+analysis	MAGMA competitive gene-set analysis integrated across four primary FUMA jobs
+method	Tests whether genes in a set show stronger gene-based GWAS association than other genes, controlling MAGMA covariates
+multiple_testing	Benjamini-Hochberg FDR and Bonferroni recalculated within each study over all finite-P gene sets
+independence_rule	Jansen and Watanabe treated as one UKB public unit for cross-study recurrence
+reporting_rule	FDR in >=1 unit is reportable; >=2 independent units is labeled consistent
+scope	Genome-wide gene-set analysis; distinct from over-representation analyses of the core16 gene list

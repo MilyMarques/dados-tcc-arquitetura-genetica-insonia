@@ -1,0 +1,9 @@
+item	value
+core_definition	16 protein-coding genes with MAGMA Bonferroni significance in >=2 independent units and >=1 SNP2GENE mapping modality
+main_studies	Hammerschlag 2017; Lane 2019; Jansen 2019 public UKB; Watanabe 2022 public UKB
+independence_rule	Jansen and Watanabe are counted as one UKB unit because of substantial sample overlap
+SNP2GENE_evidence	positive positional, brain eQTL and/or cortical chromatin-interaction mapping only
+UKB_role	ukb-a-13 and ukb-b-3957 are sensitivity analyses and do not change the core
+GENE2FUNC_input	16 Ensembl gene IDs
+GENE2FUNC_background	18,717 genes testable by MAGMA in all four main studies
+GENE2FUNC_interpretation	membership in a significant gene set identifies contributors to enrichment, not causal genes
